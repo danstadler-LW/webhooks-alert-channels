@@ -3,7 +3,7 @@ variable "TENANT_ID" {}
 
 # GLOBAL VARIABLES
 variable "RESOURCE_GROUP" {
-  default = "lacework-functions-rg"
+  default = "lacework-functions-rg-DS-branch"
 }
 variable "LOCATION" {
   default = "East US"
